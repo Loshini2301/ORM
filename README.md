@@ -3,7 +3,7 @@
 ### Date: 
 ### Name:Loshini.G
 ### Register Number:212223220051.
-### Department: IT
+### Department: IT.
 
 ## AIM:
 To develop a Django application to store and retrieve data from a bank loan database using Object Relational Mapping(ORM).
@@ -51,7 +51,8 @@ class bankloanAdmin(admin.ModelAdmin):
 ```
 
 ## OUTPUT:
-![Screenshot 2024-09-25 153605](https://github.com/user-attachments/assets/bc46be65-2389-4289-85b7-3bcb1bd9b55f)
+![Screenshot 2024-09-25 155651](https://github.com/user-attachments/assets/c2904392-8932-49fc-86b5-e4883f68d9a4)
+
 
 
 
